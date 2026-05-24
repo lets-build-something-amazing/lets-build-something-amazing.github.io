@@ -1,9 +1,15 @@
 {
   "version": "1.0",
-  "type": "link",
+  "type": "rich",
   "title": "Let's Build Something Amazing 👋 🌎 → 🌱 → 🚀",
   "author_name": "LBSA Community",
   "author_url": "https://letsbuildsomethingamazing.com/",
   "provider_name": "Let's Build Something Amazing",
-  "provider_url": "https://letsbuildsomethingamazing.com/"
+  "provider_url": "https://letsbuildsomethingamazing.com/",
+  "width": 600,
+  "height": 340,
+  "html": "<div style=\"font-family: sans-serif; background-color: #00f0ff; border: 2px solid #fff; padding: 20px; border-radius: 8px; max-width: 600px;\">\n  <img src=\"https://letsbuildsomethingamazing.com/assets/images/blueprint-banner.jpg\" alt=\"LBSA Blueprint Banner\" style=\"width: 100%; height: auto; border-radius: 4px; margin-bottom: 15px; border: 1px solid #fff;\">\n  <h3 style=\"color: #fff; margin: 0 0 10px 0; font-size: 20px;\">LET'S BUILD SOMETHING AMAZING</h3>\n  <p style=\"font-size: 24px; color: #fff; margin: 0;\">👋 🌎 &rarr; 🌱 &rarr; 🚀</p>\n</div>",
+  "thumbnail_url": "https://letsbuildsomethingamazing.com/assets/images/blueprint-banner.jpg",
+  "thumbnail_width": 1200,
+  "thumbnail_height": 675
 }
